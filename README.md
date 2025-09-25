@@ -71,8 +71,7 @@ To use the Data Encryption Standard (DES) algorithm for a practical application,
 
 ## Output:
 
-<img width="922" height="256" alt="image" src="https://github.com/user-attachments/assets/3ba8d537-7518-49a1-9ee8-4a9bca38a54a" />
-
+![WhatsApp Image 2025-09-25 at 09 41 22_ecafdbab](https://github.com/user-attachments/assets/28fb89fa-1d44-4054-8c6e-bc4c5c389313)
 
 ## Result:
   The program is executed successfully
